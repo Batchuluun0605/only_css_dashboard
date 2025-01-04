@@ -3,6 +3,10 @@
   width: 260px;
   padding: 36px 20px;
   transition: var(--transition-default);
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 100vh;
 }
 
 .user-info {

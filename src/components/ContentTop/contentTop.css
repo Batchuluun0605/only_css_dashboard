@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 32px;
+  margin-top: 24px;
+  margin-bottom: 10px;
 }
 
 .sidebar-toggler {
@@ -31,7 +32,7 @@
 }
 
 .content-top-btn img:hover {
-  filter: brightness(0) invert(1);
+  filter: brightness(2);
 }
 
 .content-top-left {

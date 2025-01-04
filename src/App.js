@@ -5,7 +5,9 @@ import logo from "./logo.svg";
 function App() {
   return (
     <div className="app">
-      <Sidebar />
+      <div>
+        <Sidebar />
+      </div>
       <Content />
     </div>
   );

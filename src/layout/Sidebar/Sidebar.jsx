@@ -30,7 +30,7 @@ const Sidebar = () => {
               <a
                 href="#"
                 className={`nav-link ${
-                  navigationLink.id === activeLinkIdx ? "active" : null
+                  navigationLink.id == activeLinkIdx ? "active" : null
                 }`}
               >
                 <img

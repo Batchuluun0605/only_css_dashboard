@@ -81,12 +81,12 @@
     grid-column-end: 3;
   }
   .content-grid-two .grid-two-item:nth-child(3) .subgrid-two {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     height: 220px;
     column-gap: 12px;
   }
   .content-grid-two {
-    row-gap: 12px;
+    row-gap: 6px;
   }
 }
 
